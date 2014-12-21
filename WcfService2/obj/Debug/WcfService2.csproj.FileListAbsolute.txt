@@ -1,0 +1,7 @@
+V:\web\ImportTool\Server\WcfService2\bin\WcfService2.dll
+V:\web\ImportTool\Server\WcfService2\bin\WcfService2.pdb
+V:\web\ImportTool\Server\WcfService2\bin\Common.dll
+V:\web\ImportTool\Server\WcfService2\bin\Common.pdb
+V:\web\ImportTool\Server\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+V:\web\ImportTool\Server\WcfService2\obj\Debug\WcfService2.dll
+V:\web\ImportTool\Server\WcfService2\obj\Debug\WcfService2.pdb
